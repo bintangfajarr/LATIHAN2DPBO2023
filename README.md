@@ -22,6 +22,9 @@ Didalam class **Mahasiswa** memiliki 3 Atribut, yaitu :
 * Prodi
 * Fakultas 
 
+## Alur Program
+
+Program ini memiliki alur perjalanan mulai dari instansiasi objek dari kelas Mahasiswa, mengisi nilai atribut-atribut dari objek Mahasiswa yang diinstansiasi sebelumnya menggunakan Setter methods, memasukkan objek tersebut ke dalam list, hingga berhasil menampilkan data beberapa objek Mahasiswa di dalam list dengan menggunakan Getter methods.
 ### Dokumentasi PHP
 ![PHP program](PHP/ss.png)
 

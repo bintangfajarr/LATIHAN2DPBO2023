@@ -32,9 +32,4 @@ Program ini memiliki alur mulai dari instansiasi objek dari kelas Mahasiswa, men
 ### Dokumentasi CPP
 ![CPP program](C++/ss.png)
 
-### Dokumentasi Java
-![Java program](Java/ss.png)
-
-### Dokumentasi Python
-![Python program](Python/ss.png)
 
